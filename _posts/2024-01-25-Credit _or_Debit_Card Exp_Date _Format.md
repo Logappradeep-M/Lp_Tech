@@ -1,10 +1,10 @@
 ---
-title: "Pan Format"
+title: "Debit Card Exp Date Format"
 date: 2024-01-25 12:30:00 +/-0800   
 categories: [Pega,Edit validate rule]
 math: true
 mermaid: true
-tags: [Pega,Credit / Debit Card Exp Date  Format,Edit validate rule,Pattern Validation]
+tags: [Pega,Credit / Debit Card Exp Date Format,Edit validate rule,Pattern Validation]
 # image: "/assets/img/post/LV.png"
 # image:
 #   path:  /assets/img/post/LV.png
