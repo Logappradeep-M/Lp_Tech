@@ -14,7 +14,7 @@ tags: [Pega,Credit / Debit Card Exp Date  Format,Edit validate rule,Pattern Vali
 ---
 ## Edit Validate rules
 ## Format
-* Ex: `AFZPK7190K`
+* Ex: `05 24`
 
 ```bash
 //In format (MM YY)
