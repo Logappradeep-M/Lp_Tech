@@ -5,9 +5,9 @@ categories: [Pega]
 math: true
 mermaid: true
 tags: [Pega,Login Validation]
-image: "/assets/img/post/LV.png"
+image: "/assets/img/post/thumbnail/LV.png"
 image:
-  path:  /assets/img/post/LV.png
+  path:  /assets/img/post/thumbnail/LV.png
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: Login Validation

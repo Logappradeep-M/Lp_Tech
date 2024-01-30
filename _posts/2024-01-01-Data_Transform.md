@@ -7,7 +7,7 @@ mermaid: true
 tags: [Pega,Data Transform]
 image: "/assets/img/post/DT.png"
 image:
-  path:  /assets/img/post/DT.png
+  path:  /assets/img/post/thumbnail/DT.png
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: Data Transform
@@ -24,5 +24,5 @@ The purpose of a data transform is to manipulate data in an application. Data tr
 Consider the checkout process of a purchasing application. The customer provides a shipping address and is prompted to provide a billing address. The billing address and shipping address are likely the same. It is more efficient to use a data transform to copy the shipping address to the billing address rather than have the customer reenter the shipping address. 
 
 ## Reference 
-[Click Here](https://docs-previous.pega.com/application-development/87/data-transforms){:target="_blank"} - **More details from pega academy** 
+[Click Here](https://docs-previous.pega.com/application-development/87/data-transforms){:target="_blank"} - **More details from pega academy for Data Transform** 
 

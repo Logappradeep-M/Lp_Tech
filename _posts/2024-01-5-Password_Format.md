@@ -1,7 +1,7 @@
 ---
 title: "Password Format"
 date: 2024-01-5 12:30:00 +/-0800   
-categories: [Pega]
+categories: [Pega,Edit validate rule]
 math: true
 mermaid: true
 tags: [Pega,Password Format,Edit validate rule,Pattern Validation]
@@ -12,13 +12,13 @@ tags: [Pega,Password Format,Edit validate rule,Pattern Validation]
 #   height: 400   # in pixels
 #   alt: Login Validation
 ---
-## Video Tutorial
+<!-- ## Video Tutorial
 
 <div style="text-align: center;">
     <img src="/assets/img/post/LV.png" alt="Your GIF" width="560" height="315">
-</div>
+</div> -->
 
-
+## Edit Validate rules
 ## Format - 1 (Display custom message)
 * The password must be atleast 8 - 15 character
 * Include both lower and upper case characters
@@ -61,4 +61,4 @@ return m.matches();
 ```
 
 ## Reference 
-[Click Here](https://docs-previous.pega.com/reference/87/about-edit-validate-rules?){:target="_blank"} - **More details from pega academy** 
+[Click Here](https://docs-previous.pega.com/reference/87/about-edit-validate-rules?){:target="_blank"} - **More details from pega academy for Edit Validate rules** 
