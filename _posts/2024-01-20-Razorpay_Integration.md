@@ -4,7 +4,6 @@ date: 2024-01-20 12:30:00 +/-0800
 categories: [Pega,Payment Integration]
 math: true
 mermaid: true
-pin: true
 tags: [Pega,Payment]
 image: "/assets/img/post/thumbnail/razorpay.jpg"
 image:
