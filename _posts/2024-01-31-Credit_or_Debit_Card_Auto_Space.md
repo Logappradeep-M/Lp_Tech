@@ -1,5 +1,5 @@
 ---
-title: "Debit Or Card Auto Space"
+title: "Debit Or Credit Card Auto Space"
 date: 2024-01-31 12:30:00 +/-0800   
 categories: [Pega,Edit Input rule]
 math: true
