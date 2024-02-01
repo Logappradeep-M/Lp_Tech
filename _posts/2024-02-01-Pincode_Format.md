@@ -1,6 +1,6 @@
 ---
 title: "Pincode Format"
-date: 2024-01-22 12:30:00 +/-0800   
+date: 2024-02-01 12:30:00 +/-0800   
 categories: [Pega,Edit validate rule]
 math: true
 mermaid: true
