@@ -4,7 +4,7 @@ date: 2024-01-22 12:30:00 +/-0800
 categories: [Pega,Edit validate rule,Edit Input rule]
 math: true
 mermaid: true
-tags: [Pega,Phone Number Format,Edit validate rule,Pattern Validation,Edit Input Rule]
+tags: [Pega,Phone Number Format,Edit validate rule,Pattern Validation]
 # image: "/assets/img/post/LV.png"
 # image:
 #   path:  /assets/img/post/LV.png

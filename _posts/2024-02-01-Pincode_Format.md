@@ -4,7 +4,7 @@ date: 2024-02-01 12:30:00 +/-0800
 categories: [Pega,Edit validate rule]
 math: true
 mermaid: true
-tags: [Pega,Edit validate rule,Pattern Validation]
+tags: [Pega,Pattern Validation]
 # image: "/assets/img/post/LV.png"
 # image:
 #   path:  /assets/img/post/LV.png

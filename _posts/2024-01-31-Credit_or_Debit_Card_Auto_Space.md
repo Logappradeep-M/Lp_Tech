@@ -4,7 +4,7 @@ date: 2024-01-31 12:30:00 +/-0800
 categories: [Pega,Edit Input rule]
 math: true
 mermaid: true
-tags: [Pega,Credit / Debit Card Auto Space,Edit input rule]
+tags: [Pega,Credit / Debit Card Auto Space]
 # image: "/assets/img/post/LV.png"
 # image:
 #   path:  /assets/img/post/LV.png
