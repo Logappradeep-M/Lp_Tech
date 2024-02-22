@@ -1,7 +1,7 @@
 ---
 title: "Aadhar Format"
 date: 2024-01-21 12:30:00 +/-0800   
-categories: [Pega,Edit validate rule,Edit Input rules]
+categories: [Pega,Edit validate rule,Edit Input rule]
 math: true
 mermaid: true
 tags: [Pega,Aadhar Format,Edit validate rule,Pattern Validation,Edit Input Rule]
