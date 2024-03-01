@@ -26,11 +26,11 @@ gem "http_parser.rb", "~> 0.8.0", :platforms => [:jruby]
 if RUBY_PLATFORM =~ /linux-musl/
   gem "jekyll-sass-converter", "~> 3.0"
 end
-gem "nokogiri", "~> 1.16.0"
+gem "nokogiri", "~> 1.16.2"
 gem "parallel", "~> 1.24.0"
 gem "rainbow", "~> 3.1.1"
 gem "typhoeus", "~> 1.4.1"
 gem "yell", "~> 2.2.2"
-gem "zeitwerk", "~> 2.6.12"
+gem "zeitwerk", "~> 2.6.13"
 gem "racc", "~> 1.7.3"
 gem "ethon", "~> 0.16.0"
